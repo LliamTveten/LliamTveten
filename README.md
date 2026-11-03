@@ -1,1 +1,4 @@
 Hello, my name is Lliam Tveten. I am a data science major at Oregon State University. For the longest time I've been a huge sports fan, in particular football. I've always loved specifically the analytics of it. Seeing all of the stats of the players on the field, and seeing how well they are preforming has always fascinated me and is what led me to pick this major. I want to become a sports analyst to further my passion for sports and my love for the game.
+
+
+I am currently developing skills in communication, GitHub, and teamwork.
